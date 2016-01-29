@@ -8,7 +8,7 @@ gives you a simple binding to interact with `BigML
 BigML makes machine learning easy by taking care of the details
 required to add data-driven decisions and predictive power to your
 company. Unlike other machine learning services, BigML creates
-`beautiful predictive models <https://bigml.com/gallery/models>`_ that
+[beautiful predictive models] (https://bigml.com/gallery/models)`_ that
 can be easily understood and interacted with.
 
 The BigML @(language) bindings allow you to interact with `BigML.io
